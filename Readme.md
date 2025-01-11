@@ -41,6 +41,7 @@ In this task you will version the dataset to ensure reproducibility.
 
 - After running the file to add the monthly data (e.g., month2_data.csv and month3_data.csv), track and push these changes using DVC. Tag them as v2 and v3 respectively.
 
+## Step 6 completed.
 
 ### 6. Upload Screenshots
 - Take screenshots of each command and its output to show how the data is tracked, added, and pushed to remote storage.
