@@ -32,6 +32,7 @@ In this task you will version the dataset to ensure reproducibility.
 - Track the main data(data/data_main.csv) using DVC.
 - Tag it as v1.
 
+## Step5 completed
 
 ### **6.Add Monthly Data (month1_data.csv, month2_data.csv) Progressively**
 - Update the main data by running the `data_aggregator.py` file.
