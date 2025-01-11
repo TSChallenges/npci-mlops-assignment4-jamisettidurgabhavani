@@ -18,6 +18,8 @@ In this task you will version the dataset to ensure reproducibility.
 
 ### **2. Create a python virtual environment, and activate it**
 
+## Step2 completed
+
 ### **3. Install DVC and Initialize a DVC repository**
  
 ### **4. Configure Remote Storage (Directory present on VM)**
