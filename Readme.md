@@ -14,6 +14,8 @@ In this task you will version the dataset to ensure reproducibility.
 
 ###  **1. Log in to your VM and create a new directory to act as remote storage**
 
+## Step1 completed
+
 ### **2. Create a python virtual environment, and activate it**
 
 ### **3. Install DVC and Initialize a DVC repository**
