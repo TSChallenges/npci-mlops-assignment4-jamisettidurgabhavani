@@ -21,9 +21,12 @@ In this task you will version the dataset to ensure reproducibility.
 ## Step2 completed
 
 ### **3. Install DVC and Initialize a DVC repository**
+
+## Step3 completed
  
 ### **4. Configure Remote Storage (Directory present on VM)**
 
+## Step4 completed
 
 ### **5. Track the main data using DVC**
 - Track the main data(data/data_main.csv) using DVC.

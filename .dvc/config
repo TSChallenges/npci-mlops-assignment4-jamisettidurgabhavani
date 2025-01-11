@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://durga@npci-sandbox.talentsprint.com:22/home/durga/dvc-assignment4
